@@ -1,0 +1,52 @@
+{
+    "name": "Arduino_LSM9DS1", 
+    "version": "1.0.0", 
+    "keywords": [
+        "sensors"
+    ], 
+    "description": "Allows you to read the accelerometer, magnetometer and gyroscope values from the LSM9DS1 IMU on your Arduino Nano 33 BLE Sense.", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelavr", 
+        "atmelsam", 
+        "espressif32", 
+        "espressif8266", 
+        "infineonxmc", 
+        "intel_arc32", 
+        "kendryte210", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "ststm32", 
+        "ststm8", 
+        "teensy", 
+        "timsp430"
+    ], 
+    "authors": [
+        {
+            "email": "info@arduino.cc", 
+            "url": null, 
+            "maintainer": true, 
+            "name": "Arduino"
+        }
+    ], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/arduino-libraries/Arduino_LSM9DS1"
+    }, 
+    "homepage": null, 
+    "export": {
+        "include": null, 
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ]
+    }, 
+    "id": 6589
+}
