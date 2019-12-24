@@ -6,7 +6,7 @@ Magic Wand using Arduino Nano 33 BLE Sense, powered by TensorFlow Lite for Micro
 
 Click the image to view video.
 
-[![Demo video thumbnail](http://i3.ytimg.com/vi/Lfv3WJnYhX0/hqdefault.jpg)]](https://www.youtube.com/watch?v=Lfv3WJnYhX0)
+[![Demo video thumbnail](http://i3.ytimg.com/vi/Lfv3WJnYhX0/hqdefault.jpg)](https://www.youtube.com/watch?v=Lfv3WJnYhX0)
 
 ## Prerequisites
 
