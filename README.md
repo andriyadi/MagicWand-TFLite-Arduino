@@ -11,8 +11,8 @@ Click the image to view video.
 ## Prerequisites
 
 * [PlatformIO](http://platformio.org/)
-* [platform-nordicnrf52](https://github.com/platformio/platform-nordicnrf52). Should be installed automatically
+* [platform-nordicnrf52](https://github.com/platformio/platform-nordicnrf52). Should be installed automatically, as it's specified in platformio.ini. Please note that I'm using `develop` version/branch.
 
 ## Credit
 
-* [Magic Wand original sample code]([exercises/intro.md](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/micro/examples/magic_wand))
+* [Magic Wand original sample code](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/micro/examples/magic_wand)
